@@ -3,7 +3,7 @@ const MC_PORT = 25571;
 const WEB_PORT = 5000;
 const ADMIN_ID = "1233066378411245649"; // Updated from unknown tag issue
 const DISCORD_INVITE = "https://discord.gg/Tabgf3rtT";
-const WEBSITE_URL = "https://rnr-smp.replit.app";
+const WEBSITE_URL = "https://rnr-smp.online";
 
 const OFFLINE_ALERT_INTERVAL_MINUTES = 10;
 const OFFLINE_ALERT_BATCH_COUNT = 10;
