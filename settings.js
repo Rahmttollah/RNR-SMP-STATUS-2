@@ -1,5 +1,5 @@
-const MC_FULL_IP = "MINETOONSMP.exaroton.me";
-const MC_PORT = 30489;
+const MC_FULL_IP = "ncr-1.candynodes.xyz";
+const MC_PORT = 25571;
 const WEB_PORT = 5000;
 const ADMIN_ID = "1233066378411245649"; // Updated from unknown tag issue
 const DISCORD_INVITE = "https://discord.gg/Tabgf3rtT";
